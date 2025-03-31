@@ -1,0 +1,203 @@
+//GET /buscar-operadoras/?q=unimed HTTP/1.1" 200 5125 
+[
+    {
+        "registro_ans": "386596",
+        "nome_fantasia": "UNIMED CERRADO",
+        "cnpj": "00366982000130",
+        "modalidade": "Cooperativa Médica",
+        "uf": "GO",
+        "cidade": "Goiânia",
+        "telefone": "92883684",
+        "endereco_eletronico": "danilo.firmino@unimedcerrado.coop.br"
+    },
+    {
+        "registro_ans": "367087",
+        "nome_fantasia": "UNIMED RIO GRANDE DO SUL",
+        "cnpj": "87158507000156",
+        "modalidade": "Cooperativa Médica",
+        "uf": "RS",
+        "cidade": "Porto Alegre",
+        "telefone": "132011370",
+        "endereco_eletronico": "unimedrs@unimedrs.com.br"
+    },
+    {
+        "registro_ans": "313084",
+        "nome_fantasia": "UNIMED DE ARAGUAINA",
+        "cnpj": "25064148000110",
+        "modalidade": "Cooperativa Médica",
+        "uf": "TO",
+        "cidade": "Araguaína",
+        "telefone": "",
+        "endereco_eletronico": "gerente@unimedaraguaina.com.br"
+    },
+    {
+        "registro_ans": "318213",
+        "nome_fantasia": "UNIMED LAGES",
+        "cnpj": "85246916000189",
+        "modalidade": "Cooperativa Médica",
+        "uf": "SC",
+        "cidade": "Lages",
+        "telefone": "32216600",
+        "endereco_eletronico": "adriana.zampirolo@unimedlages.coop.br"
+    },
+    {
+        "registro_ans": "337188",
+        "nome_fantasia": "UNIMED SUL MINEIRA",
+        "cnpj": "21490586000190",
+        "modalidade": "Cooperativa Médica",
+        "uf": "MG",
+        "cidade": "Pouso Alegre",
+        "telefone": "34491800",
+        "endereco_eletronico": "unimed@unimedsulmineira.com.br"
+    },
+    {
+        "registro_ans": "317012",
+        "nome_fantasia": "UNIMED PLANALTO NORTE",
+        "cnpj": "85177194000158",
+        "modalidade": "Cooperativa Médica",
+        "uf": "SC",
+        "cidade": "São Bento do Sul",
+        "telefone": "36314183",
+        "endereco_eletronico": "alisson.schneider@upn.unimedsc.com.br"
+    },
+    {
+        "registro_ans": "313955",
+        "nome_fantasia": "UNIMED ALÉM PARAIBA",
+        "cnpj": "71086698000158",
+        "modalidade": "Cooperativa Médica",
+        "uf": "MG",
+        "cidade": "Além Paraíba",
+        "telefone": "34662233",
+        "endereco_eletronico": "unimedap@unimedalemparaiba.com.br"
+    },
+    {
+        "registro_ans": "354996",
+        "nome_fantasia": "UNIMED ALFENAS",
+        "cnpj": "42946061000196",
+        "modalidade": "Cooperativa Médica",
+        "uf": "MG",
+        "cidade": "Alfenas",
+        "telefone": "37130000",
+        "endereco_eletronico": "unimed@unimedalfenas.com.br"
+    },
+    {
+        "registro_ans": "324159",
+        "nome_fantasia": "UNIMED ALTA MOGIANA",
+        "cnpj": "57214900000159",
+        "modalidade": "Cooperativa Médica",
+        "uf": "SP",
+        "cidade": "Orlândia",
+        "telefone": "38204466",
+        "endereco_eletronico": "secretaria@unimedaltamogiana.com.br"
+    },
+    {
+        "registro_ans": "343684",
+        "nome_fantasia": "UNIMED ALTO DA SERRA",
+        "cnpj": "88732318000108",
+        "modalidade": "Cooperativa Médica",
+        "uf": "RS",
+        "cidade": "Vacaria",
+        "telefone": "32321755",
+        "endereco_eletronico": "gerencia@unimed-as.com.br"
+    },
+    {
+        "registro_ans": "352519",
+        "nome_fantasia": "UNIMED ALTO JACUÍ",
+        "cnpj": "72234164000194",
+        "modalidade": "Cooperativa Médica",
+        "uf": "RS",
+        "cidade": "Ibirubá",
+        "telefone": "33241462",
+        "endereco_eletronico": "unimed@unimedaj.com.br"
+    },
+    {
+        "registro_ans": "341819",
+        "nome_fantasia": "UNIMED ALTO PARANAIBA",
+        "cnpj": "00763923000103",
+        "modalidade": "Cooperativa Médica",
+        "uf": "MG",
+        "cidade": "Coromandel",
+        "telefone": "38411620",
+        "endereco_eletronico": "unimed310gerencia@gmail.com"
+    },
+    {
+        "registro_ans": "348261",
+        "nome_fantasia": "UNIMED ALTO SÃO FRANCISCO",
+        "cnpj": "42889436000123",
+        "modalidade": "Cooperativa Médica",
+        "uf": "MG",
+        "cidade": "Formiga",
+        "telefone": "33296100",
+        "endereco_eletronico": "juridico@unimedasf.coop.br"
+    },
+    {
+        "registro_ans": "372561",
+        "nome_fantasia": "UNIMED ALTO VALE",
+        "cnpj": "00381694000154",
+        "modalidade": "Cooperativa Médica",
+        "uf": "SC",
+        "cidade": "Rio do Sul",
+        "telefone": "35313333",
+        "endereco_eletronico": "altovale@unimedaltovale.coop.br"
+    },
+    {
+        "registro_ans": "345598",
+        "nome_fantasia": "UNIMED AMPARO",
+        "cnpj": "65422339000121",
+        "modalidade": "Cooperativa Médica",
+        "uf": "SP",
+        "cidade": "Amparo",
+        "telefone": "38087077",
+        "endereco_eletronico": "diretoria@unimedamparo.coop.br"
+    },
+    {
+        "registro_ans": "348082",
+        "nome_fantasia": "UNIMED ANHANGUERA COOPERATIVA DE TRABALHO MÉDICO",
+        "cnpj": "54012406000113",
+        "modalidade": "Cooperativa Médica",
+        "uf": "SP",
+        "cidade": "Araras",
+        "telefone": "35435300",
+        "endereco_eletronico": "ans@unimedanhanguera.coop.br"
+    },
+    {
+        "registro_ans": "312347",
+        "nome_fantasia": "UNIMED ANÁPOLIS",
+        "cnpj": "26629238000174",
+        "modalidade": "Cooperativa Médica",
+        "uf": "GO",
+        "cidade": "Anápolis",
+        "telefone": "33333330",
+        "endereco_eletronico": "regulacao.ans@unimedanapolis.com.br"
+    },
+    {
+        "registro_ans": "358096",
+        "nome_fantasia": "UNIMED APUCARANA",
+        "cnpj": "81064511000179",
+        "modalidade": "Cooperativa Médica",
+        "uf": "PR",
+        "cidade": "Apucarana",
+        "telefone": "34208500",
+        "endereco_eletronico": "ans@unimedapucarana.coop.br"
+    },
+    {
+        "registro_ans": "354325",
+        "nome_fantasia": "UNIMED ARAGUARI",
+        "cnpj": "20909271000171",
+        "modalidade": "Cooperativa Médica",
+        "uf": "MG",
+        "cidade": "Araguari",
+        "telefone": "32425151",
+        "endereco_eletronico": "juridico@unimedaraguari.coop.br"
+    },
+    {
+        "registro_ans": "335215",
+        "nome_fantasia": "UNIMED ARARUAMA COOPERATIVA DE TRABALHO MÉDICO LTDA.",
+        "cnpj": "00111826000128",
+        "modalidade": "Cooperativa Médica",
+        "uf": "RJ",
+        "cidade": "Araruama",
+        "telefone": "26659900",
+        "endereco_eletronico": "uni290presidente@araruama.unimed.com.br"
+    }
+]
